@@ -16,17 +16,14 @@ h1 {
   font-weight: 700;
   text-align: center;
   text-shadow: 7px 7px 10px rgb(245, 245, 57);
-  
 }
-
-  
-
 
 .hucre {
   width: 70vw;
   height: 250px;
-  border: 10px double grey;
+  border: 10px double rgb(105, 104, 104);
   margin: auto;
+  margin-bottom: 4px;
   background-image: linear-gradient(
     to right,
     rgb(238, 68, 68),
@@ -44,7 +41,6 @@ h1 {
   border: 2px solid green;
   box-shadow: 3px, 3px;
 }
-
 
 .satır {
   margin-left: 10px;
@@ -69,7 +65,7 @@ p {
   font-style: normal;
 }
 
-.git{
+.git {
   width: 100px;
   height: 30px;
   text-align: center;
@@ -80,10 +76,8 @@ p {
   padding: 5px;
   float: right;
   margin-right: 20px;
-
 }
 
-
-a{
+a {
   text-decoration: none;
 }
