@@ -59,8 +59,13 @@ p {
 }
 
 .git{
-  
- text-align: end;
-margin-right: 10px;
+  width: 100px;
+  text-align: end;
+  margin-right: 30px;
+  margin-bottom: 30px;
+  background-color: red;
 
+}
+a{
+  
 }
