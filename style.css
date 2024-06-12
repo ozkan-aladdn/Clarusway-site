@@ -4,14 +4,23 @@
   /* border: 1px solid red; */
 }
 body {
-  background-image: linear-gradient(233deg, #f00 -17% -17%, #ffc800 102% 102%);
+  background-image: url(https://i2.wp.com/blog.alexdevero.com/wp-content/uploads/2019/09/23-09-19-how-to-learn-to-code-blog.jpg?w=1024&ssl=1);
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* background-image: linear-gradient(233deg, #f00 -17% -17%, #ffc800 102% 102%); */
 }
 
 h1 {
+  color: rgb(238, 68, 68);
   font-size: 100px;
+  font-weight: 700;
   text-align: center;
-  text-shadow: 3px 2px 10px violet;
+  text-shadow: 7px 7px 10px rgb(245, 245, 57);
+  
 }
+
+  
+
 
 .hucre {
   width: 70vw;
@@ -35,6 +44,7 @@ h1 {
   border: 2px solid green;
   box-shadow: 3px, 3px;
 }
+
 
 .satır {
   margin-left: 10px;
@@ -60,12 +70,17 @@ p {
 
 .git{
   width: 100px;
-  text-align: end;
-  margin-right: 30px;
+  height: 30px;
+  text-align: center;
+  margin-top: 10px;
   margin-bottom: 30px;
   background-color: red;
-
-}
-a{
+  border-radius: 10px;
+  padding: 5px;
   
+}
+
+
+a{
+  text-decoration: none;
 }
