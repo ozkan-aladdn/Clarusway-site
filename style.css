@@ -15,7 +15,7 @@ h1 {
 
 .hucre {
   width: 70vw;
-  height: 200px;
+  height: 230px;
   border: 10px double grey;
   margin: auto;
   background-image: linear-gradient(
@@ -29,7 +29,7 @@ h1 {
 
 .foto {
   width: 200px;
-  height: 90%;
+  height: 200px;
   margin-left: 5px;
   border-radius: 10px;
   border: 2px solid green;
@@ -56,4 +56,11 @@ p {
   font-optical-sizing: auto;
   font-weight: <weight>;
   font-style: normal;
+}
+
+.git{
+  
+ text-align: end;
+margin-right: 10px;
+
 }
