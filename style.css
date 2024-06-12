@@ -24,7 +24,7 @@ h1 {
 
 .hucre {
   width: 70vw;
-  height: 230px;
+  height: 250px;
   border: 10px double grey;
   margin: auto;
   background-image: linear-gradient(
@@ -50,6 +50,7 @@ h1 {
   margin-left: 10px;
   width: auto;
   height: vh;
+  margin-top: 20px;
 }
 h3 {
   font-size: 3rem;
@@ -74,10 +75,12 @@ p {
   text-align: center;
   margin-top: 10px;
   margin-bottom: 30px;
-  background-color: red;
+  background-color: rgb(20, 196, 32);
   border-radius: 10px;
   padding: 5px;
-  
+  float: right;
+  margin-right: 20px;
+
 }
 
 
